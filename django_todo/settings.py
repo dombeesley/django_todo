@@ -27,7 +27,7 @@ SECRET_KEY = '=9@%ftb74w@bz4zd%kr^zn!jt7offju&_(()&ac96!#hbg_8wm'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost',
-                 'dom-django.herokuapp.com/']
+                 'dom-django.herokuapp.com']
 
 # Application definition
 
